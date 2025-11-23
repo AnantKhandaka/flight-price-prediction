@@ -49,8 +49,6 @@ flight-price/
 
 * solution.py
 * README.md
-* examples.py (optional)
-* requirements.txt
 
 ## Contributing
 
